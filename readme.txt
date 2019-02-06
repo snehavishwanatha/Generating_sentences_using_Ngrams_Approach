@@ -1,4 +1,4 @@
-The project concentrates on generating sentences based on any given datasets which are paragraphs of related content using the concept of N-grams.
+The project concentrates on a simple approach of generating sentences based on any given datasets which are paragraphs of related content using the concept of N-grams.
 
 
 <----------TO RUN THE PROGRAM------------>
