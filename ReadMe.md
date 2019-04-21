@@ -9,7 +9,7 @@ Note: Text Data is present within the python file xxx.py itself, so no need of s
 
 ##### PRE-REQUSITES:
 * Installing NLTK
-NLTK requires Python versions 2.7, 3.4, 3.5, 3.6, or 3.7
+* NLTK requires Python versions 2.7, 3.4, 3.5, 3.6, or 3.7
 * Install Senna Tagger
 
 #### Programs -
