@@ -4,7 +4,7 @@ FROM UBUNTU TERMINAL RUN the file using following command ->
 $ python3 xxx.py
 
 
-Note: Text Data is present within the python file generate.py itself, so no need of seperate .txt file.
+Note: Text Data is present within the python file xxx.py itself, so no need of seperate .txt file.
 
 
 ##### PRE-REQUSITES:
