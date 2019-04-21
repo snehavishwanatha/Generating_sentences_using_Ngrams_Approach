@@ -1,7 +1,7 @@
-<----------TO--RUN--THE--PROGRAM------------>
+<----------TO--RUN--THE--PROGRAMS------------>
 
 FROM UBUNTU TERMINAL RUN the file using following command ->
-$ python3 xxx.py
+$ python xxx.py
 
 
 Note: Text Data is present within the python file xxx.py itself, so no need of seperate .txt file.
@@ -13,11 +13,14 @@ Note: Text Data is present within the python file xxx.py itself, so no need of s
 * Install Senna Tagger
 
 #### Programs -
-* Tokenizing Words, Sentences and on basis on regular expressions
+* Tokenizing Words, Sentences and on the basis on Regular Expressions
 * Bigrams, Trigrams and NGrams
+* Preprocessing text dataset by removing stopwords and using regular expressions
+* Implementing generation of text given a dataset of similar context using NGrams approach
 * Pos tagging using NLTK
 * Pos tagging using Senna Tagger
-* Context free grammer
 * Implementing Eliza ChatBot using Regular expressions and reflections
-* Implementing generation of text given a dataset of similar context using NGrams approach
+* Approach to Sentimental Analysis using Bag of words and Naive Bayes Classifier
+* Context free grammer - Production and Generation
+* Solving Jumbled words to form correct sentence using CFG
 * Identifying NounPhrases in a sentence using Trees and Chunking
