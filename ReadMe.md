@@ -11,6 +11,7 @@ Note: Text Data is present within the python file xxx.py itself, so no need of s
 * Installing NLTK
 * NLTK requires Python versions 2.7, 3.4, 3.5, 3.6, or 3.7
 * Install Senna Tagger
+* Install grammer_check
 
 #### Programs -
 * Tokenizing Words, Sentences and on the basis on Regular Expressions
@@ -24,3 +25,4 @@ Note: Text Data is present within the python file xxx.py itself, so no need of s
 * Context free grammer - Production and Generation
 * Solving Jumbled words to form correct sentence using CFG
 * Identifying NounPhrases in a sentence using Trees and Chunking
+* Check the grammer of a sentence and get auto suggestions to correct
